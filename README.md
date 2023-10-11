@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### My name is Luis
+Student at Codeup
 🔭 I’m currently working on SQL
 
 🌱 I’m currently learning Data Science
