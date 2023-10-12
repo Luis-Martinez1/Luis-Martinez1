@@ -1,4 +1,4 @@
-### Hi there 👋 I :heart: Github
+### Hi there, 👋
 ### My name is Luis
 Student at Codeup
 
