@@ -2,7 +2,7 @@
 ### My name is Luis
 Student at Codeup
 
-🔭 I’m currently working on SQL
+🔭 I’m currently working on Python
 
 🌱 I’m currently learning Data Science
 
