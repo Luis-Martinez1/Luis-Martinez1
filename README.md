@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### My name is Luis
-Student at Codeup
+Currently a student at Codeup
 
-🔭 I’m currently working on Python
+🔭 I’m currently working on Python applications
 
 🌱 I’m currently learning Data Science
 
