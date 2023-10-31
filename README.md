@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### My name is Luis
-Currently a student at Codeup
+I'm Currently a student at Codeup
 
 🔭 I’m currently working on Python applications
-
 🌱 I’m currently learning Data Science
+:computer: I have previously worked on SQL 
 
 
 <!--
