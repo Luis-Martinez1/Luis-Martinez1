@@ -2,11 +2,11 @@
 ### My name is Luis
 I'm Currently a student at Codeup
 
-🔭 I’m currently working on Python applications
+🔭 I’m currently working on Python Libraries
 
 🌱 I’m currently learning Data Science
 
-:computer: I have previously worked on SQL 
+:computer: I have previously worked on SQL and Python applications
 
 
 <!--
