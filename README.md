@@ -1,13 +1,12 @@
 ### Hi there 👋
 ### My name is Luis
-I'm Currently a student at Codeup
+I'm Currently a student at Codeup.
 
-🔭 I’m currently working on Stats
+🔭 I’m currently working on Classification, Storytelling, Regression, Clustering, and Time Series Analysis. 
 
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning Data Science.
 
-:computer: I have previously worked with SQL and Python Libraries such as Numpy, Pandas, Matplotlib, and Seborn.
-
+:computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistics (Descriptive and Inferential).
 
 <!--
 **Luis-Martinez1/Luis-Martinez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
