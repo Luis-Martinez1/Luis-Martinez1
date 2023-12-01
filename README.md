@@ -2,9 +2,9 @@
 ### My name is Luis
 I'm Currently a student at Codeup.
 
-🔭 I’m currently working on Classification, Storytelling, Regression, Clustering, and Time Series Analysis. 
-
 🌱 I’m currently learning Data Science.
+
+🔭 I’m currently working on Classification Models, Storytelling, Regression, Clustering, and Time Series Analysis. 
 
 :computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistics (Descriptive and Inferential).
 
