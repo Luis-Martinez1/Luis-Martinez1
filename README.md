@@ -6,7 +6,7 @@ I'm Currently a student at Codeup.
 
 🔭 I’m currently working on Classification Models, Storytelling, Regression, Clustering, and Time Series Analysis. 
 
-:computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistics (Descriptive and Inferential).
+:computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistics.
 
 <!--
 **Luis-Martinez1/Luis-Martinez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
