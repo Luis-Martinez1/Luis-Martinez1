@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Luis
-I'm Currently a student at Codeup.
+I'm Currently a student at Divergence Academy.
 
 🌱 I’m currently learning Data Science.
 
