@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzR3M2VucXR3ZjFjbGphMTRyMTVmeDIwbHV5cjZoMGNpcnYzOHZ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="500"/>
-</div>
 ### Hi there 👋
 ### My name is Luis
 I'm Currently attending Divergence Academy.
