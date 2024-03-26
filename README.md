@@ -8,8 +8,7 @@ I'm Currently attending Divergence Academy.
 
 :computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistics.
 
-
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisbmartinez/)
 
 
 
