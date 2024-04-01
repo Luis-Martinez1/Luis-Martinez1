@@ -14,7 +14,7 @@ My Links:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisbmartinez/)  [![Tableau Public](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/profile/luis.martinez1)  [![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/luismartinez10)
 
 
-Languages, Libraries, and Tools I Use:
+Languages, Libraries, and Tools:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
