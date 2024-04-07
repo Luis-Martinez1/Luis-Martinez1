@@ -1,5 +1,4 @@
 ### Hi there 👋
-### My name is Luis
 
 I'm Currently attending Divergence Academy Data Science.
 
