@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Classification Models, Storytelling, Regression, Clustering, and Time Series Analysis. 
 
-:computer: I have previously worked with SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Tableau, and Statistical Analysis.
+:computer: Expert in SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Statistical Analysis, Tableau and MS PowerBI.
 
 My Links:
 
