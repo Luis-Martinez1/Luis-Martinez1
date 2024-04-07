@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Currently attending Divergence Academy Data Science.
-
 🌱 I’m currently learning Microsoft Power Automate with Copilot and AI Builder.
 
 🔭 I’m currently working on Classification Models, Storytelling, Regression, Clustering, and Time Series Analysis. 
