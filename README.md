@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Microsoft Power Automate with Copilot and AI Builder.
 
-🔭 I’m currently working on Classification Models, Storytelling, Regression, Clustering, and Time Series Analysis. 
+🔭 I’m currently working on NLP, Classification Models, Storytelling, Regression, Clustering Analysis, and Time Series Analysis. 
 
 :computer: Expert in SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Statistical Analysis, Tableau and MS PowerBI.
 
