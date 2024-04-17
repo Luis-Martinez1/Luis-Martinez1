@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Microsoft Power Automate with Copilot and AI Builder.
+🌱 I’m currently learning Microsoft Power Automate with Copilot and AI Builder, Databricks Lakehouse Platform. 
 
-🔭 I’m currently working on NLP, Classification Models, Storytelling, Regression, Clustering Analysis, and Time Series Analysis. 
+🔭 I’m currently working on NLP, Sentiment Analsysis, Classification Models, Storytelling, Regression, Unsupervised Machine Learning Clustering Analysis, and Time Series Analysis. 
 
 :computer: Expert in SQL, Python Libraries (Numpy, Pandas, Matplotlib, and Seborn), Statistical Analysis, Tableau and MS PowerBI.
 
